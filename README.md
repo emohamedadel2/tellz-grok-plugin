@@ -1,5 +1,7 @@
 # Tellz by Tech Tactics LLC
 
+Submitted to the Grok Bot marketplace for review on 21 October 2026. The public marketplace listing is awaiting approval.
+
 ![Tellz](assets/tellz-cover.png)
 
 An AI market analyst on your team. Read your saved daily competitor brief, open earlier reports and ask what your competitors published, offered or changed. Answers use the dated evidence collected for your Tellz account.
