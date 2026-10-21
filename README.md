@@ -33,3 +33,14 @@ Every answer should name its report date, use the saved evidence and retain sour
 - Support: hello@tellz.ai / https://tellz.ai/support
 
 The Tellz brand assets are supplied for the official Tellz listing and its promotion. Tellz and its marks belong to Tech Tactics LLC. This repository does not expose product source code, customer records, reviewer credentials or tokens.
+
+## Reviewer test steps
+
+1. Add the HTTPS MCP server in Grok Bot and complete normal OAuth sign-in to a Tellz account. No API key is required.
+2. Confirm the company and followed competitors returned by `profile` match that account.
+3. Ask for the latest available brief. Check its date, source citations and report link; an unavailable day must remain unavailable.
+4. Ask for available dates, then open a past report and search its collected evidence.
+5. With read-only consent, verify no settings change is applied. Write permissions are optional and do not grant billing, account deletion or social-posting access.
+6. Return to Tellz Settings / Your own apps and confirm the connection is shown. A saved connection does not by itself confirm a Grok routine.
+
+A seeded fictional reviewer account is available through hello@tellz.ai. Request access privately; credentials are never published in this repository. The live MCP endpoint has been exercised locally and from Grok Bot. The portable manifest is schema-validated; marketplace installation remains subject to publisher review.
