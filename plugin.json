@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "tellz",
+  "version": "1.0.0",
+  "description": "Read your daily competitor brief and ask about your market in Grok Bot.",
+  "author": {
+    "name": "Tech Tactics LLC",
+    "email": "hello@tellz.ai",
+    "url": "https://tellz.ai"
+  },
+  "homepage": "https://tellz.ai",
+  "keywords": [
+    "competitor intelligence",
+    "market intelligence",
+    "daily brief",
+    "marketing"
+  ]
+}
